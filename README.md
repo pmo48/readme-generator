@@ -1,4 +1,4 @@
-# Awesome README Example Project ![license](https://img.shields.io/github/license/pmo48/readme-generator)
+# Awesome README Example Project! ![license](https://img.shields.io/github/license/pmo48/readme-generator)
     
 ## Table of Contents
 
@@ -12,15 +12,15 @@
     
 ## Description
     
-This project is intended to showcase the ability of my README generator using node.js. This readme file is an output of using the readme generator via the CLI to product all elements of this document. 
+The description is I'm doing this demo because I think it will help illustrate the great functionality of the project
     
 ## Installation
     
-This project is simply uploaded to github per usual and can be accessed by either forking the repo or downloading this readme file
+This project is installed using node.js and invoked via the CLI
     
 ## Usage
     
-This is project README example is best use as a demonstration of generating a readme file
+Simply type "node index" in the project folder via the CLI and answer the questions appropriately
     
 ## License
 
@@ -32,7 +32,7 @@ If you would like to contribute it, please utilize The [Contributor Covenant](ht
     
 ## Tests
     
-This is only an example, but you can try this yourself if you'd like
+Navigate to the CLI and try generating a readme for a previous project with a license chosen from MIT and it should create a badge
     
 ## Questions
     
